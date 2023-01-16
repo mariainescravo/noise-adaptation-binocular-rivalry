@@ -5,3 +5,5 @@ Computational study of types of noise and adaptation in binocular rivalry.
 - data contains the results from the simulation, including supplementary data.
 
 - analysis contains the Python notebooks used to analyze the simulated data. 
+
+[![DOI](https://zenodo.org/badge/589714776.svg)](https://zenodo.org/badge/latestdoi/589714776)
